@@ -15,4 +15,3 @@ else (grand_total >= 20)
     puts("Change It") 
 end
 
-puts "github"

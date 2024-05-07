@@ -15,4 +15,3 @@ elsif(grand_total > 5 && grand_total < 20 )
 else (grand_total >= 20)
     puts("Change It") 
 end
-if i asd

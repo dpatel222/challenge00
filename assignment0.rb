@@ -1,6 +1,5 @@
 # Deep Patel
 # Challenge Zero
-
 puts "enter a number"
 sub_total = gets.chomp.to_i
 PST = 0.07 * sub_total
@@ -15,3 +14,5 @@ elsif(grand_total > 5 && grand_total < 20 )
 else (grand_total >= 20)
     puts("Change It") 
 end
+
+puts "github"

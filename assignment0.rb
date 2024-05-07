@@ -2,8 +2,11 @@
 # Challenge Zero
 puts "enter a number"
 sub_total = gets.chomp.to_i
+
 PST = 0.07 * sub_total
 GST = 0.05 * sub_total
+puts("PST: #{PST }")
+puts("GST: #{GST}")
 grand_total = sub_total + PST + GST
 puts(grand_total)
 

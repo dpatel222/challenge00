@@ -15,6 +15,7 @@ if(grand_total <= 5)
 elsif(grand_total > 5 && grand_total < 20 )
     puts("Wallet Time")
 else (grand_total >= 20)
-    puts("Change It") 
+    puts("Change It")
 end
 
+# added a commnent
